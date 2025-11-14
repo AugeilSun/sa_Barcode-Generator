@@ -135,3 +135,6 @@ test_data.txt
 build_exe.spec
 build/
 dist/
+
+# IDE特定文件
+.trae/
